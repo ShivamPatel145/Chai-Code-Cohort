@@ -37,7 +37,3 @@ Feel free to create a pull request to contribute your updates!
 **Chai Code** is a platform dedicated to providing high-quality education in technology and development, empowering learners with real-world skills to excel in their careers.  
 
 Learn more about the **Web Dev Cohort 1.0** [here](https://hitesh.ai/cohort).  
-
----
-
-Let me know if you'd like to modify or add more details!
