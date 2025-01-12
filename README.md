@@ -24,13 +24,6 @@ This repository is organized to help you easily access all the materials shared 
 2. Explore the folders for notes, assignments, and project files.  
 3. Contribute by sharing your solutions, adding notes, or enhancing resources.  
 
-### Folder Structure  
-```
-├── Daily-Notes  
-├── Assignments  
-├── Projects  
-└── Resources    
-```  
 
 ## Contribution Guidelines  
 Fellow participants of the Web Dev Cohort are encouraged to contribute:  
