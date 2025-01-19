@@ -193,7 +193,7 @@ git checkout feature/new-feature
 ## 📚 Resources  
 
 - Explore [GitHub Docs](https://docs.github.com/) for detailed guidance.   
-
+- Checkout My [Blog](https://mastering-git-and-github.hashnode.dev/) on Git-Github.
 ## 🌟 **Happy Coding at ChaiCode!** 🌟  
 
 ---
